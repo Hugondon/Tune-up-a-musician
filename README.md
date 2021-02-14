@@ -1,2 +1,2 @@
-# Tune-up-a-musician
-Digital Signal Processing final project 
+# Tuneame_la_guitarra
+Este es un proyecto ambicioso para dos materias, el mejor profe del semestre vs el kratos. 
