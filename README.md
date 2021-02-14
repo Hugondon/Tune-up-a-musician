@@ -1,2 +1,3 @@
-# Tuneame_la_guitarra
-Este es un proyecto ambicioso para dos materias, el mejor profe del semestre vs el kratos. 
+# Tune-up a musician
+MATLAB based project in which the user can get its guitar strings tones.
+
